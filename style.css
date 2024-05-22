@@ -8,7 +8,7 @@
 .hero {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, pink, blue);
+    background: linear-gradient(45deg, pink, blue, white);
     color: #fff;
     position: relative;
 }
